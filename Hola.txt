@@ -1,5 +1,9 @@
 publuc class Hola(){
 public static void main(String args[]){
    Sisten.out.println("2");
+ System.out.println("2");
+ System.out.println("2");
+ System.out.println("2");
+ System.out.println("2");
  }
 }
